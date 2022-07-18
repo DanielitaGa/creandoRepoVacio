@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteGarciaDaniela</string>
+    <string name="IngreseCorreo">Ingrese Correo</string>
+    <string name="IngreseContraseña">********</string>
+    <string name="IngreseNombre">Ingrese Nombre</string>
+    <string name="IngreseDistrito">Ingrese Distrito</string>
+</resources>
